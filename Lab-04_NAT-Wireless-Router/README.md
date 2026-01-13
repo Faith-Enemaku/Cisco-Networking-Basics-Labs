@@ -19,5 +19,5 @@ In this lab, I examined how NAT operates on a wireless router by distinguishing 
 ## Screenshots
 - Topology and simulation mode traffic flow ![Device connections](screenshots/topology.png)
 - Ipconfig /all output from PC3 ![ipconfigall](screenshots/ipconfig-output.png)
-- Packet Header Showing NAT translation ![NAT](screenshots/NAT-header.png)
+- Packet header showing NAT translation ![NAT](screenshots/NAT-header.png)
 
